@@ -1,0 +1,83 @@
+.mui-input-group{
+    padding-top: 20px;
+}
+.mui-input-row{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.mui-input-row label {
+    width: 12%;
+    padding: 7px 10px!important;
+}
+.mui-input-row label~input{
+    width: 88%;
+    font-size: 15px;
+}
+.mui-input-group .mui-input-row:after {
+     background-color: #fff;
+}
+.mui-input-group:after {
+    background-color: #fff;
+}
+
+/*mui-checkbox*/
+.mui-checkbox input[type=checkbox]:before {
+    content: '\e411';
+    font-size: 20px;
+}
+.mui-checkbox{
+    margin-left: -5px
+}
+.mui-checkbox.mui-left label, .mui-radio.mui-left label {
+    padding-right: 15px;
+    padding-left: 48px;
+}
+.mui-checkbox input[type=checkbox]:checked:before{
+    color: #ff2741;
+}
+/*-------------------------------------*/
+
+
+.phone{
+    width: 17px;
+}
+.yzm{
+    width: 22px;
+}
+.mui-btn-add{
+    padding: 8px 0;
+    background: #ff2741;
+    color: #fff;
+}
+.yzmLabel{
+    padding: 12px 10px !important
+}
+.yzmInput{
+    width: 50% !important;
+    float: left!important;
+}
+.yzmGet{
+    float: right;
+    width: 100px !important;
+    padding:6px 10px !important;
+    border: 1px solid #ccc !important;
+    margin-right: 10px;
+}
+.rule{
+    margin-top: 4px
+}
+
+
+
+
+/*11.24  图片验证吗 */
+.mycode{
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    float: right;
+    margin-right: 20px;
+    border: 1px solid #ccc;
+    vertical-align: middle;
+    text-align: center;
+}

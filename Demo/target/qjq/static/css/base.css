@@ -1,0 +1,50 @@
+header{z-index: 999 !important}
+img{border:0;max-width:100%;height: auto}
+ul,li,dl,dt,dd{display:block;list-style:none;}
+html{overflow-x:hidden;-webkit-text-size-adjust:none;}
+.white{color: #fff}
+.black{color: #000}
+.grey{color: #9c9c9c}
+.grey{color: #646464}
+.fl{float: left}
+.fr{float: right}
+.cb{clear: both}
+.tl{text-align: left !important}
+.tc{text-align: center}
+.tr{text-align: right}
+.bgwhite{background: #fff!important;}
+.bggrey{background: #ededed;}
+.mt-6{margin-top: -6px}
+.mt5{margin-top: 5px}
+.mt10{margin-top: 10px}
+.mt20{margin-top: 20px}
+.ml5{margin-left: 5px}
+.ml10{margin-left: 10px}
+.mr10{margin-right: 10px}
+.mt-10{margin-top: -10px}
+.pd0{padding: 0 !important;}
+.pl10{padding-left: 10px}
+.pl25{padding-left: 25px}
+.pt20{padding-top: 20px}
+.pt0{padding-top: 0!important;}
+.visible{overflow: visible !important}
+.br{border-right: 1px solid #ccc !important}
+.bb{border-bottom: 2px solid #f8f8f8 !important}
+
+p{color: #646464}
+
+
+
+.f12{font-size: 12px}
+.f13{font-size: 13px}
+.f16{font-size: 16px}
+.f20{font-size: 20px}
+.ff2741{color: #ff2741}
+.cd2e2{color: #4cd2e2}
+.c470dc{color: #c470dc}
+.e14994{color: #4994e1}
+
+
+
+
+

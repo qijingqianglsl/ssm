@@ -1,0 +1,137 @@
+/*wrap set*/
+.commonWrap{
+    padding: 10px;
+    text-align: left;
+}
+.commonWrap2{
+    padding: 10px 10px 2px 10px;
+    text-align: left;
+    background: #fff;
+}
+.commonWrap3{
+    padding: 10px 10px 2px 15px;
+    text-align: left;
+    background: #fff;
+}
+/*tab set*/
+.mui-bar-tab{
+    background: #fafafa;
+}
+.mui-bar-add{
+    padding-right: 10px;
+}
+/*btn*/
+.mui-btn-danger{
+    background-color: #ff2741;
+    border: 1px solid #ff2741;
+}
+/*订单弹出框*/
+.orderPrompt{
+    line-height: 30px;
+    border-radius: 30px;
+    background: rgba(0,0,0,0.6);
+    position: fixed;
+    top: 44px;
+    left: 10px;
+    color: #fff;
+    padding: 0 20px 0 33px;
+    z-index: 30;
+}
+.orderImg {
+    width: 34px;
+    height: 34px;
+    border-radius: 20px;
+    position: absolute;
+    top: -2px;
+    left: -5px;
+}
+.orderPrompt>a>span{
+    color: #fff;
+}
+
+
+
+/*100人团的显示与隐藏*/
+.leaderWrap{
+    width: 53px;
+    border-radius: 25px;
+    position: relative;
+    float: left;
+}
+.leaderImg{
+    width: 30px;
+    height: 30px;
+    border-radius: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.leaderIcon{
+    position: absolute;
+    top: 0;
+    right: 0px;
+}
+.leagWrap{
+    text-align: left;
+    padding-left: 10px;
+}
+.upIcon{
+    width: 12px;
+    height: 6px;
+
+}
+.seeMore{
+    font-size: 10px;
+    color: #bfbfbf;
+    margin-left: 6px;
+}
+
+
+/*btn*/
+.pinhuBtn{
+    width: 93px;
+    border: 1px solid #ff2741;
+}
+.pinhuGoodsSet{
+    font-size: 16px;
+    color: #000;
+    line-height: 27px;
+    /*font-weight: bold;*/
+}
+
+.mui-btn-add{
+    padding: 8px 0;
+    background: #ff2741;
+    color: #fff;
+    border-radius: 6px;
+    margin-top: 30px;
+    border: 1px solid #ff2741;
+}
+
+  /*倒计时*/
+.pp_state {
+    height: 24px;
+    position: relative;
+    text-align: center;
+}
+.pp_time {
+    background-color: #f2f2f4;
+    display: inline-block;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+    z-index: 1;
+}
+.pp_time {
+    padding: 0 10px;
+}
+.pp_time span {
+    background-color: #404040;
+    border-radius: 2px;
+    color: #fff;
+    display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    margin: 0 2px;
+    text-align: center;
+    width: 20px;
+}
